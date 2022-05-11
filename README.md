@@ -9,7 +9,7 @@ Project to develop a PLD exercise given from Holberton School Colombia, where we
 Resources
 ---------
 
-[Given exercise](https://holberton.enterprise.slack.com/files/U01KF3K2WHL/F03F0JY1DJ6/sql-_python.pdf?origin_team%3DT01N7FC76ER%26origin_channel%3DC0276SZK8MD)
+[Given exercise](https://www.canva.com/design/DAFAZX-wrw0/gUTxZD6NVG5yy5ExrO3glg/view?utm_content=DAFAZX-wrw0&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 
 **Read or watch**:
@@ -30,9 +30,9 @@ Resources
 Dependences
 -----------
 
-[EjercicioPLD.docx]() Document where the questions in given exercise are answered.
+[EjercicioPLD.docx](https://github.com/Imanolasolo/PYTHON-SQLAlchemy_-tests-fags/blob/master/Ejercicio%20PLD.docx) Document where the questions in given exercise are answered.
 
-[pruebaPLD.py]() File where we tested the exercise given in project.
+[pruebaPLD.py](https://github.com/Imanolasolo/PYTHON-SQLAlchemy_-tests-fags/blob/master/pruebaPLD.py) File where we tested the exercise given in project.
 
 ## Credits
 
