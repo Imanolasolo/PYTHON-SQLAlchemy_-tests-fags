@@ -2,7 +2,7 @@
 
 Repository where we created the answers and files to show the use of SQLAlchemy modules with mysql database.
 
-![Logo](https://www.google.com/imgres?imgurl%3Dhttps%3A%2F%2Fhaseebmajid.dev%2Fstatic%2F222a065a5c6811607731ea2fd74b8ef6%2F724c8%2Fcover.jpg%26imgrefurl%3Dhttps%3A%2F%2Fhaseebmajid.dev%2Fblog%2Fsimple-app-flask-sqlalchemy-and-docker%2F%26tbnid%3DpQDH2CnfOvxw-M%26vet%3D10CAUQMyi6AmoXChMIuNuFqqvY9wIVAAAAAB0AAAAAEAQ..i%26docid%3Dbv8pe4r2LKPg0M%26w%3D1000%26h%3D400%26q%3Dsqlalchemy%26ved%3D0CAUQMyi6AmoXChMIuNuFqqvY9wIVAAAAAB0AAAAAEAQ)
+![image](https://user-images.githubusercontent.com/86312558/167952554-5062b0f6-c8fd-4543-8613-7b7305652ce7.png)
 
 Project to develop a PLD exercise given from Holberton School Colombia, where we need to answer some questions and perforn a test to a given database.
 
